@@ -25,7 +25,7 @@ I'm available for private audits, security consultations, and collaborative rese
 - **Telegram:** @riskyexe
 - **Discord:** @0xhalfbloodprince
 - **Email:** noob4adaephon@gmail.com
-- **Website/Blog:** Coming Soon
+- **Website/Blog:** [Substack](https://substack.com/@0xhalfbloodprince?utm_campaign=profile&utm_medium=profile-page)
 
 ---
 
