@@ -38,9 +38,11 @@ I'm available for private audits, security consultations, and collaborative rese
 | **Code4rena** | GTE Perps and Launchpad | GTE is the world's fastest decentralized exchange. We’ve vertically integrated every aspect of trading - from token creation, to spot and perpetuals - to give you the best on-chain experience possible. |[2 M](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad/submissions?page=1&filter=awardable&search=halfbloo) | [View](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) |
 | **Code4rena** | Sequence | The modular crypto infrastructure stack that unifies wallets, 1-click cross-chain transactions, and real-time data.|[1 M](https://code4rena.com/audits/2025-10-sequence/submissions/S-405) | [View](https://code4rena.com/audits/2025-10-sequence) |
 | **Code4rena** | Sequence: Transaction Rails | Multichain transaction rails to pay, swap, fund, or earn in 1 click with any wallet, token or chain |[2 L](https://code4rena.com/audits/2025-11-sequence-transaction-rails/submissions?page=1&filter=satisfactory&search=halfbl) | [View](https://code4rena.com/audits/2025-11-sequence-transaction-rails) |
+| **Code4rena** | Swafe | No passwords. No backup phrases. No trusted companies. Swafe protects your access — securely, privately, and on your terms.|[1 M,3 L](https://code4rena.com/audits/2025-11-swafe/submissions?page=1&filter=satisfactory&search=halfb) | [View](https://code4rena.com/audits/2025-11-swafe) |
+| **Code4rena** | Rujira | Rujira is building the App Layer on THORChain, providing a fully integrated suite of DeFi applications, accessible with native assets from all connected chains.|[1 H, 2 M](https://code4rena.com/audits/2025-12-rujira/submissions?page=1&filter=satisfactory&search=halfb) | [View](https://code4rena.com/audits/2025-12-rujira) |
+| **Cantina** | VII Finance | VII Finance is a credit-based market-making protocol. It allows users to borrow against their Uniswap V4 Liquidity Positions while earning lending interest on top of swap fees.|[1 H](https://cantina.xyz/code/eb93d215-e328-4d19-99ab-6c510acbb5aa/findings?s=created_by%253Akimonic) | [View](https://cantina.xyz/code/eb93d215-e328-4d19-99ab-6c510acbb5aa/overview) |
 
 ---
-
 ## 🚀 Open Source Contributions
 
 ### Security Tools & Resources
